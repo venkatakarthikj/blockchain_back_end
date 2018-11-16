@@ -6,8 +6,8 @@ Have Implemented back end  used Node ,mongo, Express -For Email service used sen
 performance wise its good hence choosed ( a node,mongo and Express
 
 TO START APP
-npm install
-npm start
+# npm install
+# npm start
 
 NOTE:
 Please Refer ENV from .env.example (copy and use .env)
